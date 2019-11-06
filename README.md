@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/edithmendoza/Galvanize/_apis/build/status/edithmenb.pipelines-java?branchName=master)](https://dev.azure.com/edithmendoza/Galvanize/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
